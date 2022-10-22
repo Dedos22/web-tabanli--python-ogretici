@@ -6,7 +6,7 @@ Web sitesinin düzeni, web sitesinin genel görünümünü gösterdiği için sa
 Öğreticinin arayüz tasarımı Adobe XD ile hazırlanmıştır. Kullanıcı alışkanlıklarına göre ve sade bir şekilde kullanıcının gözünü yormayacak bir tasarım yapılmıştır.Web tabanlı Python öğreticisi için arayüz tasarımı yapılmış ve şekil-16’da gösterilmiştir.
 
 Pencerenin Sol tarafında bulunan menü, Python konu başlıklarını içerir. Sağ tarafta içeriğimiz bulunur. Menünün başında search bulunur. Menünün sonunda ise sosyal medya bağlantılarımız vardır.Pencerenin sağ üstünde logomuz bulunacaktır. En altta ise yorumlar kısmı bulunmaktadır.
-<img src="Görünüm/Anasayfa.JPG"; 
+<img src="Anasayfa.JPG"
 
 Şekil-16.Anasayfa arayüz tasarımı görünümü.
 
